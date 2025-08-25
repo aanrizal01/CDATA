@@ -9,6 +9,7 @@ DOMAIN="acsc.gogiga.id"
 EMAIL="admin@gogiga.id"
 SSL_DIR="/opt/cms-ssl"
 
+
 echo "=== Auto Install CMS C-DATA + SSL + Auto-Renew for $DOMAIN ==="
 
 # 1. Update system
